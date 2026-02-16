@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,496 | 🐛 70 | 📅 2026-01-28 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,721 | 🐛 71 | 📅 2026-01-28 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,496 | 🐛 70 | 📅 2026-01-28 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 437,721 | 🐛 71 | 📅 2026-01-28 list thing.
 
 ## Table of Contents
 
@@ -89,13 +89,13 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 571 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 572 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
 > A predator-inspired clock screensaver.
 
-[![](screenshots/predator.png)](https://github.com/vpeschenkov/Predator) ⭐ 155 | 🐛 3 | 🌐 Swift | 📅 2025-05-21
+[![](screenshots/predator.png)](https://github.com/vpeschenkov/Predator) ⭐ 155 | 🐛 2 | 🌐 Swift | 📅 2025-05-21
 
 ### Death Counter
 
@@ -219,7 +219,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 590 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
+[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 591 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
 
 ### StarWarsScroll
 
