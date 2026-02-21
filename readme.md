@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 list thing.
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,706 |
 
 Free
 
-[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/) ⭐ 154 | 🐛 2 | 🌐 Swift | 📅 2022-08-21
+[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/) ⭐ 155 | 🐛 2 | 🌐 Swift | 📅 2022-08-21
 
 ### ColorClock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,948 | 🐛 87 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,946 | 🐛 87 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -355,7 +355,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 204 | 🐛 2 | 🌐 Swift | 📅 2025-12-09
+[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2025-12-09
 
 ## Collections
 
