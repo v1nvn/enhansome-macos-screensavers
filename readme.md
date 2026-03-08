@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,493 | 🐛 73 | 📅 2026-03-04 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 443,493 | 🐛 73 | 📅 2026-03-04 list thing.
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 438,983 |
 
 Free
 
-[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/) ⭐ 155 | 🐛 2 | 🌐 Swift | 📅 2022-08-21
+[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/) ⭐ 156 | 🐛 2 | 🌐 Swift | 📅 2022-08-21
 
 ### ColorClock
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 572 | 🐛 13 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 573 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -109,7 +109,7 @@ Free
 
 Free
 
-[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 128 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 130 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
 
 ### MultiClock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,946 | 🐛 87 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,948 | 🐛 89 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,626 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,624 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 343 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 342 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
 
 Free
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 150 | 🐛 2 | 🌐 Swift | 📅 2025-11-25
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 152 | 🐛 4 | 🌐 Swift | 📅 2026-03-01
 
 Free
 
@@ -219,7 +219,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 591 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
+[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 590 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
 
 ### StarWarsScroll
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 310 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 312 | 🐛 17 | 📅 2025-07-06
 
 ## Video Game
 
@@ -255,7 +255,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from <http://developerexcuses.com> (unofficial).
 
-[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 345 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
+[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 346 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
 
 ### MacOS Kernel Panic
 
@@ -279,7 +279,7 @@ Free
 
 Free (Open Source)
 
-[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen) ⭐ 335 | 🐛 7 | 🌐 CSS | 📅 2022-04-13
+[![](screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen) ⭐ 336 | 🐛 7 | 🌐 CSS | 📅 2022-04-13
 
 ## Graphics
 
@@ -355,7 +355,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 205 | 🐛 2 | 🌐 Swift | 📅 2025-12-09
+[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 205 | 🐛 3 | 🌐 Swift | 📅 2025-12-09
 
 ## Collections
 
