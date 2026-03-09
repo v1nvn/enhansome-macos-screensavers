@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,493 | 🐛 73 | 📅 2026-03-04 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,833 | 🐛 75 | 📅 2026-03-04 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 443,493 | 🐛 73 | 📅 2026-03-04 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 443,833 | 🐛 75 | 📅 2026-03-04 list thing.
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 443,493 |
 
 > Unix Time (epoch) flip clock.
 
-[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 235 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
+[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 236 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
 
 ### Grid Clock
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 312 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 313 | 🐛 17 | 📅 2025-07-06
 
 ## Video Game
 
