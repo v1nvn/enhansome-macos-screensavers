@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,207 | 🐛 75 | 📅 2026-03-09 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,521 | 🐛 75 | 📅 2026-03-09 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,207 | 🐛 75 | 📅 2026-03-09 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,521 | 🐛 75 | 📅 2026-03-09 list thing.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,207 |
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 404 | 🐛 5 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 405 | 🐛 5 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,949 | 🐛 72 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,950 | 🐛 71 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
