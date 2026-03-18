@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 446,126 | 🐛 83 | 📅 2026-03-09 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 446,444 | 🐛 83 | 📅 2026-03-09 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 446,126 | 🐛 83 | 📅 2026-03-09 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 446,444 | 🐛 83 | 📅 2026-03-09 list thing.
 
 ## Table of Contents
 
@@ -81,7 +81,7 @@ Free
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 128 | 🐛 7 | 🌐 Swift | 📅 2023-08-25
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 128 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
 
 ### Evangelion Clock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,951 | 🐛 66 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,950 | 🐛 66 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,625 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,627 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 316 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 317 | 🐛 17 | 📅 2025-07-06
 
 ## Video Game
 
@@ -355,7 +355,7 @@ Free (Open Source)
 
 Free (Open Source)
 
-[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 206 | 🐛 3 | 🌐 Swift | 📅 2025-12-09
+[![](screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver) ⭐ 207 | 🐛 3 | 🌐 Swift | 📅 2025-12-09
 
 ## Collections
 
