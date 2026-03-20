@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 446,761 | 🐛 84 | 📅 2026-03-09 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 447,077 | 🐛 86 | 📅 2026-03-09 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 446,761 | 🐛 84 | 📅 2026-03-09 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 447,077 | 🐛 86 | 📅 2026-03-09 list thing.
 
 ## Table of Contents
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,953 | 🐛 66 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,954 | 🐛 66 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -219,7 +219,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 590 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
+[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 589 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
 
 ### StarWarsScroll
 
