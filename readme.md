@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,988 | 🐛 87 | 📅 2026-03-09 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,304 | 🐛 88 | 📅 2026-03-09 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,988 | 🐛 87 | 📅 2026-03-09 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 450,304 | 🐛 88 | 📅 2026-03-09 list thing.
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,988 |
 
 > Unix Time (epoch) flip clock.
 
-[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 236 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
+[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 235 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
 
 ### Grid Clock
 
@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,988 |
 
 > A super simple word clock, like your computer is typing the time for you.
 
-[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/) ⭐ 111 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-24
+[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/) ⭐ 109 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-24
 
 ### Simple Clock
 
@@ -101,7 +101,7 @@ Free
 
 > A simple counter screensaver that counts down to your death.
 
-[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter) ⭐ 31 | 🐛 1 | 🌐 Objective-C | 📅 2025-05-13
+[![](screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter) ⭐ 32 | 🐛 1 | 🌐 Objective-C | 📅 2025-05-13
 
 ### MinimalClock
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,626 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,625 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
