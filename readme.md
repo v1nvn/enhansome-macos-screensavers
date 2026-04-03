@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,947 | 🐛 66 | 📅 2026-04-01 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 451,322 | 🐛 59 | 📅 2026-04-02 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 450,947 | 🐛 66 | 📅 2026-04-01 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 451,322 | 🐛 59 | 📅 2026-04-02 list thing.
 
 ## Table of Contents
 
@@ -115,7 +115,7 @@ Free
 
 > Displays the time (and animations) using 24 individual clocks
 
-[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock) ⭐ 145 | 🐛 5 | 🌐 Swift | 📅 2023-01-25
+[![](screenshots/multiclock.png)](https://github.com/amiantos/multiclock) ⭐ 146 | 🐛 5 | 🌐 Swift | 📅 2023-01-25
 
 ### Flip Clock Screensaver
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,949 | 🐛 66 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,948 | 🐛 66 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 152 | 🐛 4 | 🌐 Swift | 📅 2026-03-01
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 153 | 🐛 4 | 🌐 Swift | 📅 2026-03-01
 
 Free
 
