@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 454,332 | 🐛 60 | 📅 2026-04-02 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 454,670 | 🐛 62 | 📅 2026-04-02 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 454,332 | 🐛 60 | 📅 2026-04-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 454,670 | 🐛 62 | 📅 2026-04-02 list thing.
 
 ## Table of Contents
 
@@ -109,7 +109,7 @@ Free
 
 Free
 
-[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 130 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
+[![](screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2022-01-11
 
 ### MultiClock
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,623 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,622 | 🐛 29 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 343 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 344 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
 
 Free
 
