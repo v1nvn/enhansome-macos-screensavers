@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,116 | 🐛 64 | 📅 2026-04-02 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,408 | 🐛 65 | 📅 2026-04-02 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 456,116 | 🐛 64 | 📅 2026-04-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 456,408 | 🐛 65 | 📅 2026-04-02 list thing.
 
 ## Table of Contents
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 321 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 320 | 🐛 17 | 📅 2025-07-06
 
 ## Video Game
 
