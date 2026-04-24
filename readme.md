@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,032 | 🐛 67 | 📅 2026-04-19 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,413 | 🐛 66 | 📅 2026-04-19 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 458,032 | 🐛 67 | 📅 2026-04-19 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 458,413 | 🐛 66 | 📅 2026-04-19 list thing.
 
 ## Table of Contents
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,958 | 🐛 28 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,959 | 🐛 28 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
