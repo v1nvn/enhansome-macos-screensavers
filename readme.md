@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 462,163 | 🐛 73 | 📅 2026-05-03 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 462,614 | 🐛 71 | 📅 2026-05-03 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 462,163 | 🐛 73 | 📅 2026-05-03 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 462,614 | 🐛 71 | 📅 2026-05-03 list thing.
 
 ## Table of Contents
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,969 | 🐛 29 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,971 | 🐛 29 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -179,7 +179,7 @@ Free
 
 Free
 
-[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 342 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 341 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
 
 ### Fruit
 
