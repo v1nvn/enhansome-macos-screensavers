@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,443 | 🐛 70 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 463,815 | 🐛 71 | 📅 2026-05-05 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,443 | 🐛 70 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 463,815 | 🐛 71 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 582 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 583 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,971 | 🐛 29 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,970 | 🐛 28 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -163,7 +163,7 @@ Free
 
 > A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
 
-[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 345 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
+[![](screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM) ⭐ 346 | 🐛 5 | 🌐 Objective-C | 📅 2025-05-25
 
 Free
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 323 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 324 | 🐛 17 | 📅 2025-07-06
 
 ## Video Game
 
