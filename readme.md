@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 464,202 | 🐛 71 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 464,636 | 🐛 73 | 📅 2026-05-05 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,202 | 🐛 71 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,636 | 🐛 73 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,202 |
 
 > A super simple word clock, like your computer is typing the time for you.
 
-[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/) ⭐ 110 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-24
+[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/) ⭐ 109 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-24
 
 ### Simple Clock
 
