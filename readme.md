@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,454 | 🐛 75 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,795 | 🐛 76 | 📅 2026-05-05 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 466,454 | 🐛 75 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 466,795 | 🐛 76 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,976 | 🐛 28 | 🌐 Swift | 📅 2025-08-12
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,975 | 🐛 28 | 🌐 Swift | 📅 2025-08-12
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,620 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,621 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 152 | 🐛 5 | 🌐 Swift | 📅 2026-03-01
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 152 | 🐛 5 | 🌐 Swift | 📅 2026-05-16
 
 Free
 
@@ -231,7 +231,7 @@ $0.99
 
 > One interpretation of The Matrix.
 
-[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 325 | 🐛 17 | 📅 2025-07-06
+[![](screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload) ⭐ 326 | 🐛 17 | 📅 2025-07-06
 
 ## Video Game
 
