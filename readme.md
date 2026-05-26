@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 469,807 | 🐛 76 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,092 | 🐛 77 | 📅 2026-05-05 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 469,807 | 🐛 76 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,092 | 🐛 77 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 584 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 585 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,622 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,623 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
@@ -185,7 +185,7 @@ Free
 
 > Animated vintage Apple logo
 
-[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 153 | 🐛 5 | 🌐 Swift | 📅 2026-05-18
+[![](screenshots/fruit.png)](https://github.com/ppamorim/fruit) ⭐ 154 | 🐛 5 | 🌐 Swift | 📅 2026-05-18
 
 Free
 
