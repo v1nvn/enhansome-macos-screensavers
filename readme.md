@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,367 | 🐛 77 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,667 | 🐛 78 | 📅 2026-05-05 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,367 | 🐛 77 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,667 | 🐛 78 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -49,19 +49,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,367 |
 
 > Unix Time (epoch) flip clock.
 
-[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 235 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
+[![](screenshots/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/) ⭐ 234 | 🐛 3 | 🌐 Objective-C | 📅 2019-01-15
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 406 | 🐛 5 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 405 | 🐛 5 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
 > A super simple word clock, like your computer is typing the time for you.
 
-[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/) ⭐ 109 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-24
+[![](screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/) ⭐ 108 | 🐛 0 | 🌐 JavaScript | 📅 2022-01-24
 
 ### Simple Clock
 
@@ -75,13 +75,13 @@ Free
 
 > Displays a solid color corresponding to the current time.
 
-[![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver) ⭐ 70 | 🐛 2 | 🌐 Swift | 📅 2022-11-20
+[![](screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver) ⭐ 69 | 🐛 2 | 🌐 Swift | 📅 2022-11-20
 
 ### ScreenMazer
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 130 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 129 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
 
 ### Evangelion Clock
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 585 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 586 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,983 | 🐛 16 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,984 | 🐛 16 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -179,7 +179,7 @@ Free
 
 Free
 
-[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 341 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
+[![](screenshots/october30.png)](https://github.com/lekevicius/october30) ⭐ 340 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-19
 
 ### Fruit
 
@@ -219,7 +219,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 590 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
+[![](screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver) ⭐ 589 | 🐛 13 | 🌐 JavaScript | 📅 2019-12-18
 
 ### StarWarsScroll
 
@@ -255,7 +255,7 @@ $0.99
 
 > A macOS Screensaver which shows quotes from <http://developerexcuses.com> (unofficial).
 
-[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 347 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
+[![](screenshots/developerExcuses.png)](https://github.com/kimar/DeveloperExcuses) ⭐ 346 | 🐛 0 | 🌐 Swift | 📅 2021-04-09
 
 ### MacOS Kernel Panic
 
@@ -271,7 +271,7 @@ Free
 
 Free
 
-[![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver) ⭐ 166 | 🐛 3 | 🌐 Objective-C | 📅 2019-10-17
+[![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver) ⭐ 165 | 🐛 3 | 🌐 Objective-C | 📅 2019-10-17
 
 ### octoscreen
 
