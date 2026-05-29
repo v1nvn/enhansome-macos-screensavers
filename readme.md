@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,667 | 🐛 78 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,983 | 🐛 79 | 📅 2026-05-05 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,667 | 🐛 78 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,983 | 🐛 79 | 📅 2026-05-05 list thing.
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,667 |
 
 Free
 
-[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/) ⭐ 157 | 🐛 2 | 🌐 Swift | 📅 2022-08-21
+[![](screenshots/simpleClock.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/) ⭐ 156 | 🐛 2 | 🌐 Swift | 📅 2022-08-21
 
 ### ColorClock
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 586 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 585 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -193,7 +193,7 @@ Free
 
 > Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
 
-[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble) ⭐ 303 | 🐛 0 | 🌐 Swift | 📅 2022-03-11
+[![](screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble) ⭐ 302 | 🐛 0 | 🌐 Swift | 📅 2022-03-11
 
 Free (Open Source)
 
@@ -239,7 +239,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 152 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
+[![](screenshots/speedS@ver.png)](https://github.com/orta/SpeedS-ver) ⭐ 151 | 🐛 8 | 🌐 Objective-C | 📅 2013-07-12
 
 ## Aquarium
 
@@ -271,7 +271,7 @@ Free
 
 Free
 
-[![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver) ⭐ 165 | 🐛 3 | 🌐 Objective-C | 📅 2019-10-17
+[![](screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver) ⭐ 164 | 🐛 3 | 🌐 Objective-C | 📅 2019-10-17
 
 ### octoscreen
 
