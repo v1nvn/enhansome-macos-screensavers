@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 472,174 | 🐛 82 | 📅 2026-05-05 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 472,457 | 🐛 81 | 📅 2026-06-02 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,174 | 🐛 82 | 📅 2026-05-05 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,457 | 🐛 81 | 📅 2026-06-02 list thing.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,174 |
 
 > Twelve hour time in words.
 
-[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 405 | 🐛 5 | 🌐 HTML | 📅 2022-09-30
+[![](screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/) ⭐ 406 | 🐛 5 | 🌐 HTML | 📅 2022-09-30
 
 ### Word Clock
 
@@ -89,7 +89,7 @@ Free
 
 Free
 
-[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 585 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
+[![](screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/) ⭐ 586 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21
 
 ### Predator
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,983 | 🐛 16 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,982 | 🐛 16 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
@@ -149,7 +149,7 @@ Free
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
-[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,624 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
+[![](screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme) ⭐ 5,625 | 🐛 30 | 🌐 Swift | 📅 2024-10-09
 
 Free
 
