@@ -1,8 +1,8 @@
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 473,285 | 🐛 83 | 📅 2026-06-02 with stars
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 473,586 | 🐛 83 | 📅 2026-06-02 with stars
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 473,285 | 🐛 83 | 📅 2026-06-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 473,586 | 🐛 83 | 📅 2026-06-02 list thing.
 
 ## Table of Contents
 
@@ -81,7 +81,7 @@ Free
 
 > Continuously builds and then solves a maze, while displaying the current time.
 
-[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 129 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
+[![](screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer) ⭐ 130 | 🐛 8 | 🌐 Swift | 📅 2023-08-25
 
 ### Evangelion Clock
 
@@ -137,7 +137,7 @@ Free
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,984 | 🐛 17 | 🌐 Swift | 📅 2026-05-16
+[![](screenshots/aerial.png)](https://github.com/JohnCoates/Aerial) ⭐ 20,981 | 🐛 18 | 🌐 Swift | 📅 2026-05-16
 
 ### Apple Watch
 
